@@ -1,14 +1,14 @@
 Permalink: MS44LjAAVHViYVBsYW5kb0V4dHJvcmRpbmFpcmUAFwMEAE4gwBwAAAAAAAAA
 Race Mode: ET, WT, FW, DRC
-Windfall Island - Mila: Moblin's Letter
+Windfall Island - Mila - Follow the Thief: Moblin's Letter
 Dragon Roost Cavern - Boarded Up Chest: Delivery Bag
 Windfall Island - Zunari - Stock Exotic Flower in Zunari's Shop: Power Bracelets
-Windfall Island - Maggie - Reward: Skull Hammer
+Windfall Island - Maggie - Delivery Reward: Skull Hammer
 Bomb Island - Cave: Command Melody
 Earth Temple - Transparent Chest In Warp Pot Room: Iron Boots
 Earth Temple - Transparent Chest in First Crypt: ET Small Key
 Wind Temple - Chest Between Two Dirt Patches: Progressive Picto Box
-Windfall Island - Pompie and Vera: Grappling Hook
+Windfall Island - Pompie and Vera - Secret Meeting Photo: Grappling Hook
 Pawprint Isle - Chuchu Cave - Scale the Wall: Maggie's Letter
 Windfall Island - Cafe Bar - Postman: Cabana Deed
 Private Oasis - Cabana Labyrinth - First Chest: Progressive Bow
@@ -22,7 +22,7 @@ Dragon Roost Cavern - Under Rope Bridge: DRC Big Key
 Earth Temple - Chest In Three Blocks Room: ET Small Key
 Earth Temple - Casket in Second Crypt: ET Small Key
 Earth Temple - Stalfos Mini-Boss Room: Progressive Picto Box
-Windfall Island - Minenco: Mirror Shield
+Windfall Island - Minenco - Miss Windfall Photo: Mirror Shield
 Earth Temple - Big Key Chest: Deku Leaf
 Earth Temple - Stalfos Crypt Room: ET Big Key
 Wind Temple - Big Key Chest: WT Small Key
